@@ -1,4 +1,4 @@
-Welcome to "Batch Calculator
+Welcome to "Batch Calculator"
 
 Please enter your Numbers below
 

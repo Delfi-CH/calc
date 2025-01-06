@@ -17,7 +17,7 @@ Linux:
 
 MacOS:
 
-no supported Release
+no supported Release, linux instructions might work on MacOS?, cannot confirm because i dont have a mac
 
 # Todo
 

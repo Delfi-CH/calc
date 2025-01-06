@@ -4,7 +4,7 @@ Calculators programmed in diffrent languages
 ## Batch-Scripting
 Microsoft Windows:
 1. Download the Release
-2. Go into the "windows batch" folder
+2. Unzip the file
 3. Run "calc.bat"
 
 Linux:

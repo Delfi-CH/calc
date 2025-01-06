@@ -9,7 +9,11 @@ Microsoft Windows:
 
 Linux:
 
-no supported Release
+1. Download wine from https://www.winehq.org/
+2. Download the Release
+3. Unzip the file&
+4. Open a terminal where the file is loctated
+5. In the Terminal type ``` wine start calc.bat ```
 
 MacOS:
 

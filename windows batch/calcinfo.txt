@@ -8,4 +8,4 @@ Subtraction = "-"
 Multiplication = "*"
 Division = "/"
 
-Copyright 2025 Laurens A. Spitzer
+Copyright 2025 Delfi-CH

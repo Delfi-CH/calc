@@ -1,0 +1,11 @@
+Welcome to "Batch Calculator
+
+Please enter your Numbers below
+
+Syntax for Operator:
+Addition = "+"
+Subtraction = "-"
+Multiplication = "*"
+Division = "/"
+
+Copyright 2025 Laurens A. Spitzer

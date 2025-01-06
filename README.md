@@ -19,6 +19,7 @@ no supported Release
 
 ## Languages
 
+- Bash
 - Python
 - Java
 - C

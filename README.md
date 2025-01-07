@@ -12,7 +12,7 @@ Linux:
 - Kubuntu, based on Ubuntu 24.10
 
 MacOS:
--no test data
+- no test data
 
 ## Batch-Scripting
 Microsoft Windows:

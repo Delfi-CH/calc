@@ -1,6 +1,19 @@
 # Calculators
 Calculators programmed in diffrent languages
 # Languages:
+
+# Operating Systems
+Tested on:
+
+Microsoft Windows:
+- Microsoft Windows 11, 23H2
+
+Linux:
+- Kubuntu, based on Ubuntu 24.10
+
+MacOS:
+-no test data
+
 ## Batch-Scripting
 Microsoft Windows:
 1. Download the Release

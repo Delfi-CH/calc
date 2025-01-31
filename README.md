@@ -10,6 +10,7 @@ Microsoft Windows:
 
 Linux:
 - Kubuntu, based on Ubuntu 24.10
+- Nobara, based on Fedora 41
 
 MacOS:
 - no test data
